@@ -1,4 +1,4 @@
-# docs_demo
+## Docs list
 
 [Understanding the Bias-Variance Tradeoff!](http://scott.fortmann-roe.com/docs/BiasVariance.html)
 
