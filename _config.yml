@@ -1,4 +1,5 @@
 title: Docs Demo
 description: Demo page for doc list
+theme: jekyll-theme-cayman
 github:
   is_project_page: false
