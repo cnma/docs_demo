@@ -9,3 +9,5 @@
 [Visual Information Theory!](http://colah.github.io/posts/2015-09-Visual-Information/)
 
 [The Illustrated Transformer!](http://jalammar.github.io/illustrated-transformer/)
+
+[Elements!](./elements)
