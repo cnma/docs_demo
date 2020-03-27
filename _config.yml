@@ -1,2 +1,4 @@
-title: Docs
-description: ML docs
+title: Docs Demo
+description: Demo page for doc list
+github:
+  is_project_page: false
